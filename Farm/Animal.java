@@ -10,7 +10,7 @@ public abstract class Animal {
     }
 
     public boolean canWalk() {
-        return true;
+        return false;
     }
 
     public boolean canSwim() {
